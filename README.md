@@ -44,13 +44,20 @@ Dataset
 The Iris dataset used in this project is included in the data directory. The dataset file is named iris.csv. It contains the following columns:
 
 SepalLengthCm
+
 SepalWidthCm
+
 PetalLengthCm
+
 PetalWidthCm
+
 Species
+
 Model
+
 The classification model is implemented using the scikit-learn library. The notebook (Iris_Flower_Classification.ipynb) and the Python script (iris_classification.py) provide code for training and evaluating the model.
 
 Evaluation
+
 The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1 score. These metrics are displayed in the notebook and the script output.
 
